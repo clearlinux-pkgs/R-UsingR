@@ -4,7 +4,7 @@
 #
 Name     : R-UsingR
 Version  : 2.0.6
-Release  : 5
+Release  : 6
 URL      : https://cran.r-project.org/src/contrib/UsingR_2.0-6.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/UsingR_2.0-6.tar.gz
 Summary  : Data Sets, Etc. for the Text "Using R for Introductory
@@ -29,10 +29,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1589412906
+export SOURCE_DATE_EPOCH=1589782240
 
 %install
-export SOURCE_DATE_EPOCH=1589412906
+export SOURCE_DATE_EPOCH=1589782240
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
