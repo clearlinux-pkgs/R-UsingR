@@ -4,7 +4,7 @@
 #
 Name     : R-UsingR
 Version  : 2.0.6
-Release  : 6
+Release  : 7
 URL      : https://cran.r-project.org/src/contrib/UsingR_2.0-6.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/UsingR_2.0-6.tar.gz
 Summary  : Data Sets, Etc. for the Text "Using R for Introductory
